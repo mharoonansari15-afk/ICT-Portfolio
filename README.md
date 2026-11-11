@@ -1,2 +1,7 @@
-# ICT-Portfolio
-This repository is for my AICT tasks which I complete in my university. 
+# My ICT-Portfolio
+
+Name: Muhammad Haroon
+Program: BSCS
+Semester: 1
+
+This repository is created for my AICT assignment. 
